@@ -1,2 +1,2 @@
 # Blog_project_day_57
-A simple blog website using Flask
+A simple blog website using Flask (python)
